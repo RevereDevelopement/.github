@@ -1,4 +1,4 @@
-![Header](https://cdn.discordapp.com/attachments/461924356881121291/1198719726411595836/image_4.png)
+![header](https://github.com/hmRemi/hmRemi/assets/17689226/6387114f-4948-44ad-bbd3-61a061a0a74d)
 
 <h1 align="center">Revere Development</h1>
 <div align="center">
@@ -11,4 +11,4 @@
   </p>
 </div>
 
-![Footer](https://cdn.discordapp.com/attachments/461924356881121291/1198719730773659858/image_5.png)
+![footer](https://github.com/hmRemi/hmRemi/assets/17689226/378b7928-829e-467d-ac4e-631195ac72f7)
